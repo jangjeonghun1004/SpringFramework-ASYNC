@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	this is async.jsp page.
+	this is callable.jsp page.
 </body>
 </html>
