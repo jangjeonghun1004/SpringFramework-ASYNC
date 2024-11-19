@@ -54,8 +54,8 @@
 
 # 비동기 인터셉터
 
-    기존 인터셉터 동일 다른점은 있다면 
-    비동기 인터셉터는 "AsyncHandlerInterceptor" 를 구현한다.
+    기존 인터셉터와 다른점은 있다면 
+    비동기 인터셉터는 "AsyncHandlerInterceptor" 를 구현한다는 것 이다.
 
 # 웹소켓(STOMP, Simple Text Oriented Protocol)
 
