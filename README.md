@@ -27,7 +27,6 @@
 
     즉 다시 말해 "DefferedResult 클래스"는 결과 값을 단순히 기록한다.
     만약 결과 값을 받은 후 후행 작업이 추가적으로 있다면 "CompletableFuture 클래스"를 사용한다.
-    
 
 # 비동기 관련 추가 사항
 
@@ -78,6 +77,10 @@
     3. WebSocket.jsp
         웹소켓 호출
         http://localhost:8080/websocket
+
+# Spring WebFlux
+
+    준비중...
         
     
 
